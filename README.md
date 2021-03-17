@@ -1,2 +1,2 @@
 # Traclus-Typescript
-Traclus coder sur typescript
+Traclus code sur typescript
