@@ -1,8 +1,5 @@
-import {Trajectory} from "./trajectory"
+import {Trajectory} from "./trajectory";
 
-type Trajectoryt = {
-	isTraj : () => void;
-}
 
 class Cluster {
 	clusterId : Number;

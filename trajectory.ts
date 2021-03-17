@@ -1,8 +1,5 @@
-import {Point} from "./point"
+import {Point} from "./point";
 
-type Pointt = {
-	isPoint: () => void;
-}
 
 class Trajectory {
 	trajectory_id : Number;
